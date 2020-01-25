@@ -6,5 +6,6 @@ Blue
 Red
 Green
 yellow
+Indigo
 There are the colors of the rainbow.
 And the unicorn
